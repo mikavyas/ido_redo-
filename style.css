@@ -1,0 +1,54 @@
+body {
+    background-color: whitesmoke
+}
+
+.map-container {
+    position: absolute;
+    top: 60px;
+    bottom: 0;
+    left: 50px;
+    width: 75%;
+    height: 85%;
+}
+
+.map-features-container {
+    position: absolute;
+    font: 16px/22px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background: white;
+    width: 250px;
+    top: 56px;
+    right: 5px;
+    margin: 5px 0 0 5px; /* spacing of all margin sides of the container */
+    padding: 10px; /*Add additional spacing around the container*/
+}
+
+#nameset {
+    position: relative;
+    width: 100px;
+    top: 0;
+    left: 18px;
+    margin: 5px 0 5px;
+}
+
+/* positioning of the reset-button within the park-zoom-filter*/
+#reset-button  {
+    position: relative;
+    width: 100px;
+    top: 0;
+    left: 50px;
+    margin: 5px 0 5px;
+}
+  
+
+#school-class  {
+    position: relative;
+    width: 150px;
+    top: 50;
+    left: 50px;
+    margin: 5px 0 5px;
+}
+
+.top-bar{
+    width: 100%;
+    background: lightblue
+}

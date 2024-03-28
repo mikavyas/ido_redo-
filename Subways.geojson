@@ -1,0 +1,1685 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.45324212,
+            43.65693632
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "ADDRESS_PO": 13977809,
+          "ADDRESS_FU": "2365 Dundas St W",
+          "POSTAL_COD": "M6P 1W7",
+          "LONGITUDE": -79.45324212,
+          "LATITUDE": 43.65693632,
+          "STATION": "DUNDAS WEST",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/dundas-west-station",
+          "x": -8844694.044,
+          "y": 5412504.359,
+          "ObjectId": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.44411111,
+            43.71579263
+          ]
+        },
+        "properties": {
+          "FID": 2,
+          "ADDRESS_PO": 12427667,
+          "ADDRESS_FU": "665 Lawrence Ave W",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.44411111,
+          "LATITUDE": 43.71579263,
+          "STATION": "LAWRENCE WEST",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/lawrence-west-station",
+          "x": -8843678.042,
+          "y": 5421564.769,
+          "ObjectId": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.40679935,
+            43.67479162
+          ]
+        },
+        "properties": {
+          "FID": 3,
+          "ADDRESS_PO": 798368,
+          "ADDRESS_FU": "263 Dupont St",
+          "POSTAL_COD": "M5R 1V8",
+          "LONGITUDE": -79.40679935,
+          "LATITUDE": 43.67479162,
+          "STATION": "DUPONT",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/dupont-station",
+          "x": -8839524.075,
+          "y": 5415252.856,
+          "ObjectId": 3
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.42630256,
+            43.66239032
+          ]
+        },
+        "properties": {
+          "FID": 4,
+          "ADDRESS_PO": 8417694,
+          "ADDRESS_FU": "746 Ossington Ave",
+          "POSTAL_COD": "M6G 3T9",
+          "LONGITUDE": -79.42630256,
+          "LATITUDE": 43.66239032,
+          "STATION": "OSSINGTON",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/ossington-station",
+          "x": -8841695.779,
+          "y": 5413343.619,
+          "ObjectId": 4
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4355881,
+            43.66008769
+          ]
+        },
+        "properties": {
+          "FID": 5,
+          "ADDRESS_PO": 10223914,
+          "ADDRESS_FU": "1006 Dufferin St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.4355881,
+          "LATITUDE": 43.66008769,
+          "STATION": "DUFFERIN",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/dufferin-station",
+          "x": -8842728.715,
+          "y": 5412990.135,
+          "ObjectId": 5
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.44268627,
+            43.65910755
+          ]
+        },
+        "properties": {
+          "FID": 6,
+          "ADDRESS_PO": 10335150,
+          "ADDRESS_FU": "691 Lansdowne Ave",
+          "POSTAL_COD": "M6H 3Y9",
+          "LONGITUDE": -79.44268627,
+          "LATITUDE": 43.65910755,
+          "STATION": "LANSDOWNE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/lansdowne-station",
+          "x": -8843519.291,
+          "y": 5412838.793,
+          "ObjectId": 6
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.41129647,
+            43.66618465
+          ]
+        },
+        "properties": {
+          "FID": 7,
+          "ADDRESS_PO": 9523574,
+          "ADDRESS_FU": "819 Bathurst St",
+          "POSTAL_COD": "M5R 3G2",
+          "LONGITUDE": -79.41129647,
+          "LATITUDE": 43.66618465,
+          "STATION": "BATHURST",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/bathurst-station",
+          "x": -8840024.668,
+          "y": 5413927.82,
+          "ObjectId": 7
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.40459604,
+            43.66712906
+          ]
+        },
+        "properties": {
+          "FID": 8,
+          "ADDRESS_PO": 10736657,
+          "ADDRESS_FU": "6 Spadina Rd",
+          "POSTAL_COD": "M5R 2S7",
+          "LONGITUDE": -79.40459604,
+          "LATITUDE": 43.66712906,
+          "STATION": "SPADINA",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/spadina-station",
+          "x": -8839279.6,
+          "y": 5414072.812,
+          "ObjectId": 8
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.49491875,
+            43.65006996
+          ]
+        },
+        "properties": {
+          "FID": 9,
+          "ADDRESS_PO": 14072575,
+          "ADDRESS_FU": "2672 Bloor St W",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.49491875,
+          "LATITUDE": 43.65006996,
+          "STATION": "OLD MILL",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/old-mill-station",
+          "x": -8849333.786,
+          "y": 5411448.14,
+          "ObjectId": 9
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.51134546,
+            43.64817241
+          ]
+        },
+        "properties": {
+          "FID": 10,
+          "ADDRESS_PO": 12157361,
+          "ADDRESS_FU": "955 Royal York Rd",
+          "POSTAL_COD": "M8X 2E6",
+          "LONGITUDE": -79.51134546,
+          "LATITUDE": 43.64817241,
+          "STATION": "ROYAL YORK",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/royal-york-station",
+          "x": -8851162.59,
+          "y": 5411156.04,
+          "ObjectId": 10
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4512368,
+            43.73411172
+          ]
+        },
+        "properties": {
+          "FID": 11,
+          "ADDRESS_PO": 7994198,
+          "ADDRESS_FU": "570 Wilson Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.4512368,
+          "LATITUDE": 43.73411172,
+          "STATION": "WILSON",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/wilson-station",
+          "x": -8844470.735,
+          "y": 5424387.35,
+          "ObjectId": 11
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.41837283,
+            43.66412477
+          ]
+        },
+        "properties": {
+          "FID": 12,
+          "ADDRESS_PO": 10877852,
+          "ADDRESS_FU": "5 Christie St",
+          "POSTAL_COD": "M6G 3B1",
+          "LONGITUDE": -79.41837283,
+          "LATITUDE": 43.66412477,
+          "STATION": "CHRISTIE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/christie-station",
+          "x": -8840813.128,
+          "y": 5413611.378,
+          "ObjectId": 12
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.53437278,
+            43.63863852
+          ]
+        },
+        "properties": {
+          "FID": 13,
+          "ADDRESS_PO": 8353629,
+          "ADDRESS_FU": "950 Kipling Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.53437278,
+          "LATITUDE": 43.63863852,
+          "STATION": "KIPLING",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/kipling-station",
+          "x": -8853725.878,
+          "y": 5409690.245,
+          "ObjectId": 13
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.52407618,
+            43.6454226
+          ]
+        },
+        "properties": {
+          "FID": 14,
+          "ADDRESS_PO": 14047327,
+          "ADDRESS_FU": "1240 Islington Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.52407618,
+          "LATITUDE": 43.6454226,
+          "STATION": "ISLINGTON",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/islington-station",
+          "x": -8852579.701,
+          "y": 5410733.764,
+          "ObjectId": 14
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.39007445,
+            43.65981315
+          ]
+        },
+        "properties": {
+          "FID": 15,
+          "ADDRESS_PO": 7792705,
+          "ADDRESS_FU": "671 University Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.39007445,
+          "LATITUDE": 43.65981315,
+          "STATION": "QUEEN'S PARK",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/queens-park-station",
+          "x": -8837662.463,
+          "y": 5412947.802,
+          "ObjectId": 15
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.38802613,
+            43.65481796
+          ]
+        },
+        "properties": {
+          "FID": 16,
+          "ADDRESS_PO": 6349924,
+          "ADDRESS_FU": "449 University Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.38802613,
+          "LATITUDE": 43.65481796,
+          "STATION": "ST PATRICK",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/st-patrick-station",
+          "x": -8837434.921,
+          "y": 5412179.45,
+          "ObjectId": 16
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.38681792,
+            43.65071214
+          ]
+        },
+        "properties": {
+          "FID": 17,
+          "ADDRESS_PO": 8067819,
+          "ADDRESS_FU": "181 Queen St W",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.38681792,
+          "LATITUDE": 43.65071214,
+          "STATION": "OSGOODE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/osgoode-station",
+          "x": -8837300.512,
+          "y": 5411547.624,
+          "ObjectId": 17
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.38515665,
+            43.64745937
+          ]
+        },
+        "properties": {
+          "FID": 18,
+          "ADDRESS_PO": 7929667,
+          "ADDRESS_FU": "173 King St W",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.38515665,
+          "LATITUDE": 43.64745937,
+          "STATION": "ST ANDREW",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/st-andrew-station",
+          "x": -8837115.304,
+          "y": 5411047.031,
+          "ObjectId": 18
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.3781187,
+            43.65247044
+          ]
+        },
+        "properties": {
+          "FID": 19,
+          "ADDRESS_PO": 11272990,
+          "ADDRESS_FU": "3 Queen St E",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.3781187,
+          "LATITUDE": 43.65247044,
+          "STATION": "QUEEN",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/queen-station",
+          "x": -8836332.135,
+          "y": 5411817.5,
+          "ObjectId": 19
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.37751988,
+            43.6491138
+          ]
+        },
+        "properties": {
+          "FID": 20,
+          "ADDRESS_PO": 8771617,
+          "ADDRESS_FU": "3 King St E",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.37751988,
+          "LATITUDE": 43.6491138,
+          "STATION": "KING",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/king-station",
+          "x": -8836265.46,
+          "y": 5411301.032,
+          "ObjectId": 20
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 20,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.31277112,
+            43.68642215
+          ]
+        },
+        "properties": {
+          "FID": 21,
+          "ADDRESS_PO": 6620141,
+          "ADDRESS_FU": "991 Woodbine Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.31277112,
+          "LATITUDE": 43.68642215,
+          "STATION": "WOODBINE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/woodbine-station",
+          "x": -8829057.137,
+          "y": 5417042.502,
+          "ObjectId": 21
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 21,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.32306016,
+            43.68413047
+          ]
+        },
+        "properties": {
+          "FID": 22,
+          "ADDRESS_PO": 875151,
+          "ADDRESS_FU": "355 Strathmore Blvd",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.32306016,
+          "LATITUDE": 43.68413047,
+          "STATION": "COXWELL",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/coxwell-station",
+          "x": -8830202.256,
+          "y": 5416690.076,
+          "ObjectId": 22
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 22,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.33029539,
+            43.68258062
+          ]
+        },
+        "properties": {
+          "FID": 23,
+          "ADDRESS_PO": 7939998,
+          "ADDRESS_FU": "10 Linnsmore Cres",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.33029539,
+          "LATITUDE": 43.68258062,
+          "STATION": "GREENWOOD",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/greenwood-station",
+          "x": -8831007.65,
+          "y": 5416451.95,
+          "ObjectId": 23
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 23,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.34501561,
+            43.67989591
+          ]
+        },
+        "properties": {
+          "FID": 24,
+          "ADDRESS_PO": 10386594,
+          "ADDRESS_FU": "743 Pape Ave",
+          "POSTAL_COD": "M4K 3T1",
+          "LONGITUDE": -79.34501561,
+          "LATITUDE": 43.67989591,
+          "STATION": "PAPE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/pape-station",
+          "x": -8832647.011,
+          "y": 5416038.141,
+          "ObjectId": 24
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 24,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.33782111,
+            43.68099108
+          ]
+        },
+        "properties": {
+          "FID": 25,
+          "ADDRESS_PO": 7939906,
+          "ADDRESS_FU": "30 Donlands Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.33782111,
+          "LATITUDE": 43.68099108,
+          "STATION": "DONLANDS",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/donlands-station",
+          "x": -8831845.851,
+          "y": 5416206.417,
+          "ObjectId": 25
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 25,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.380383,
+            43.6563103
+          ]
+        },
+        "properties": {
+          "FID": 26,
+          "ADDRESS_PO": 7641746,
+          "ADDRESS_FU": "3 Dundas St E",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.380383,
+          "LATITUDE": 43.6563103,
+          "STATION": "DUNDAS",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/dundas-station",
+          "x": -8836584.019,
+          "y": 5412408.051,
+          "ObjectId": 26
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 26,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.3826809,
+            43.66121356
+          ]
+        },
+        "properties": {
+          "FID": 27,
+          "ADDRESS_PO": 7730268,
+          "ADDRESS_FU": "3 Carlton St",
+          "POSTAL_COD": "M5B 1L2",
+          "LONGITUDE": -79.3826809,
+          "LATITUDE": 43.66121356,
+          "STATION": "COLLEGE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/college-station",
+          "x": -8836840.136,
+          "y": 5413162.644,
+          "ObjectId": 27
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 27,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.43571085,
+            43.69912069
+          ]
+        },
+        "properties": {
+          "FID": 28,
+          "ADDRESS_PO": 12352756,
+          "ADDRESS_FU": "1300 Eglinton Ave W",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.43571085,
+          "LATITUDE": 43.69912069,
+          "STATION": "EGLINTON WEST",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/eglinton-west-station",
+          "x": -8842742.473,
+          "y": 5418998.306,
+          "ObjectId": 28
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 28,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.44109477,
+            43.70935059
+          ]
+        },
+        "properties": {
+          "FID": 29,
+          "ADDRESS_PO": 14077440,
+          "ADDRESS_FU": "785 Glencairn Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.44109477,
+          "LATITUDE": 43.70935059,
+          "STATION": "GLENCAIRN",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/glencairn-station",
+          "x": -8843342.549,
+          "y": 5420573.109,
+          "ObjectId": 29
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 29,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.47597525,
+            43.65175131
+          ]
+        },
+        "properties": {
+          "FID": 30,
+          "ADDRESS_PO": 7963482,
+          "ADDRESS_FU": "265 Runnymede Rd",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.47597525,
+          "LATITUDE": 43.65175131,
+          "STATION": "RUNNYMEDE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/runnymede-station",
+          "x": -8847225.582,
+          "y": 5411707.433,
+          "ObjectId": 30
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 30,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.48437996,
+            43.6498882
+          ]
+        },
+        "properties": {
+          "FID": 31,
+          "ADDRESS_PO": 7950531,
+          "ADDRESS_FU": "15 Jane St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.48437996,
+          "LATITUDE": 43.6498882,
+          "STATION": "JANE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/jane-station",
+          "x": -8848161.151,
+          "y": 5411420.624,
+          "ObjectId": 31
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 31,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.44773717,
+            43.72508658
+          ]
+        },
+        "properties": {
+          "FID": 32,
+          "ADDRESS_PO": 30033413,
+          "ADDRESS_FU": "50 Yorkdale Rd",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.44773717,
+          "LATITUDE": 43.72508658,
+          "STATION": "YORKDALE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/yorkdale-station",
+          "x": -8844081.267,
+          "y": 5422996.697,
+          "ObjectId": 32
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 32,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.38753163,
+            43.7671088
+          ]
+        },
+        "properties": {
+          "FID": 33,
+          "ADDRESS_PO": 14043670,
+          "ADDRESS_FU": "550 Sheppard Ave E",
+          "POSTAL_COD": "M2K 3C8",
+          "LONGITUDE": -79.38753163,
+          "LATITUDE": 43.7671088,
+          "STATION": "BAYVIEW",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/bayview-station",
+          "x": -8837379.887,
+          "y": 5429472.652,
+          "ObjectId": 33
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 33,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.37591471,
+            43.76907773
+          ]
+        },
+        "properties": {
+          "FID": 34,
+          "ADDRESS_PO": 14224877,
+          "ADDRESS_FU": "731 Sheppard Ave E",
+          "POSTAL_COD": "M2K 3C9",
+          "LONGITUDE": -79.37591471,
+          "LATITUDE": 43.76907773,
+          "STATION": "BESSARION",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/bessarion-station",
+          "x": -8836086.601,
+          "y": 5429775.335,
+          "ObjectId": 34
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 34,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.36696336,
+            43.77104524
+          ]
+        },
+        "properties": {
+          "FID": 35,
+          "ADDRESS_PO": 14043658,
+          "ADDRESS_FU": "1209 Sheppard Ave E",
+          "POSTAL_COD": "M2K 3E1",
+          "LONGITUDE": -79.36696336,
+          "LATITUDE": 43.77104524,
+          "STATION": "LESLIE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/leslie-station",
+          "x": -8835089.649,
+          "y": 5430079.078,
+          "ObjectId": 35
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 35,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.34661547,
+            43.77542278
+          ]
+        },
+        "properties": {
+          "FID": 36,
+          "ADDRESS_PO": 14068203,
+          "ADDRESS_FU": "1700 Sheppard Ave E",
+          "POSTAL_COD": "M2J 5G9",
+          "LONGITUDE": -79.34661547,
+          "LATITUDE": 43.77542278,
+          "STATION": "DON MILLS",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/don-mills-station",
+          "x": -8832824.812,
+          "y": 5430754.296,
+          "ObjectId": 36
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 36,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.37922964,
+            43.64576123
+          ]
+        },
+        "properties": {
+          "FID": 37,
+          "ADDRESS_PO": 10864311,
+          "ADDRESS_FU": "55 Front St W",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.37922964,
+          "LATITUDE": 43.64576123,
+          "STATION": "UNION",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/union-station",
+          "x": -8836454.902,
+          "y": 5410785.622,
+          "ObjectId": 37
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 37,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.28915706,
+            43.69454357
+          ]
+        },
+        "properties": {
+          "FID": 38,
+          "ADDRESS_PO": 11382307,
+          "ADDRESS_FU": "777 Victoria Park Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.28915706,
+          "LATITUDE": 43.69454357,
+          "STATION": "VICTORIA PARK",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/victoria-park-station",
+          "x": -8826428.232,
+          "y": 5418293.454,
+          "ObjectId": 38
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 38,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.30150509,
+            43.68909079
+          ]
+        },
+        "properties": {
+          "FID": 39,
+          "ADDRESS_PO": 8232328,
+          "ADDRESS_FU": "315 Main St",
+          "POSTAL_COD": "M4C 4X6",
+          "LONGITUDE": -79.30150509,
+          "LATITUDE": 43.68909079,
+          "STATION": "MAIN STREET",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/main-street-station",
+          "x": -8827803.01,
+          "y": 5417453.136,
+          "ObjectId": 39
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 39,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.26428872,
+            43.73266364
+          ]
+        },
+        "properties": {
+          "FID": 45,
+          "ADDRESS_PO": 6674325,
+          "ADDRESS_FU": "2455 Eglinton Ave E",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.26428872,
+          "LATITUDE": 43.73266364,
+          "STATION": "KENNEDY",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/kennedy-station",
+          "x": -8823660.685,
+          "y": 5424164.041,
+          "ObjectId": 45
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 40,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.41638058,
+            43.78176253
+          ]
+        },
+        "properties": {
+          "FID": 46,
+          "ADDRESS_PO": 7171768,
+          "ADDRESS_FU": "5714 Yonge St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.41638058,
+          "LATITUDE": 43.78176253,
+          "STATION": "FINCH",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/finch-station",
+          "x": -8840590.877,
+          "y": 5431731.139,
+          "ObjectId": 46
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 41,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.41306366,
+            43.76896895
+          ]
+        },
+        "properties": {
+          "FID": 47,
+          "ADDRESS_PO": 14076455,
+          "ADDRESS_FU": "5152 Yonge St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.41306366,
+          "LATITUDE": 43.76896895,
+          "STATION": "NORTH YORK CENTRE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/north-york-centre-station",
+          "x": -8840221.518,
+          "y": 5429758.402,
+          "ObjectId": 47
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 42,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.41236509,
+            43.76171034
+          ]
+        },
+        "properties": {
+          "FID": 48,
+          "ADDRESS_PO": 13967653,
+          "ADDRESS_FU": "20 Sheppard Ave W",
+          "POSTAL_COD": "M2N 7H9",
+          "LONGITUDE": -79.41236509,
+          "LATITUDE": 43.76171034,
+          "STATION": "SHEPPARD-YONGE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/sheppard-yonge-station",
+          "x": -8840144.26,
+          "y": 5428639.742,
+          "ObjectId": 48
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 43,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.40636584,
+            43.74490955
+          ]
+        },
+        "properties": {
+          "FID": 49,
+          "ADDRESS_PO": 12036646,
+          "ADDRESS_FU": "4025 Yonge St",
+          "POSTAL_COD": "M2P 2E3",
+          "LONGITUDE": -79.40636584,
+          "LATITUDE": 43.74490955,
+          "STATION": "YORK MILLS",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/york-mills-station",
+          "x": -8839476.45,
+          "y": 5426051.053,
+          "ObjectId": 49
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 44,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.40193748,
+            43.72536278
+          ]
+        },
+        "properties": {
+          "FID": 50,
+          "ADDRESS_PO": 7762894,
+          "ADDRESS_FU": "3101 Yonge St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.40193748,
+          "LATITUDE": 43.72536278,
+          "STATION": "LAWRENCE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/lawrence-station",
+          "x": -8838983.266,
+          "y": 5423039.03,
+          "ObjectId": 50
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 45,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.46265112,
+            43.74993432
+          ]
+        },
+        "properties": {
+          "FID": 51,
+          "ADDRESS_PO": 10561028,
+          "ADDRESS_FU": "1035 Sheppard Ave W",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.46265112,
+          "LATITUDE": 43.74993432,
+          "STATION": "SHEPPARD WEST",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/sheppard-west-station",
+          "x": -8845741.796,
+          "y": 5426824.696,
+          "ObjectId": 51
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 46,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.39835772,
+            43.70534682
+          ]
+        },
+        "properties": {
+          "FID": 52,
+          "ADDRESS_PO": 11272589,
+          "ADDRESS_FU": "2190 Yonge St",
+          "POSTAL_COD": "M4S 2B8",
+          "LONGITUDE": -79.39835772,
+          "LATITUDE": 43.70534682,
+          "STATION": "EGLINTON",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/eglinton-station",
+          "x": -8838584.273,
+          "y": 5419956.099,
+          "ObjectId": 52
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 47,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.3971253,
+            43.69785923
+          ]
+        },
+        "properties": {
+          "FID": 53,
+          "ADDRESS_PO": 7273830,
+          "ADDRESS_FU": "1900 Yonge St",
+          "POSTAL_COD": "M4S 1Z2",
+          "LONGITUDE": -79.3971253,
+          "LATITUDE": 43.69785923,
+          "STATION": "DAVISVILLE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/davisville-station",
+          "x": -8838447.748,
+          "y": 5418803.572,
+          "ObjectId": 53
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 48,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.39298707,
+            43.68812105
+          ]
+        },
+        "properties": {
+          "FID": 54,
+          "ADDRESS_PO": 14076438,
+          "ADDRESS_FU": "15 St Clair Ave E",
+          "POSTAL_COD": "M4T 1L8",
+          "LONGITUDE": -79.39298707,
+          "LATITUDE": 43.68812105,
+          "STATION": "ST CLAIR",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/st-clair-station",
+          "x": -8837987.372,
+          "y": 5417303.911,
+          "ObjectId": 54
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 49,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.39079202,
+            43.68230153
+          ]
+        },
+        "properties": {
+          "FID": 55,
+          "ADDRESS_PO": 8681089,
+          "ADDRESS_FU": "16 Shaftesbury Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.39079202,
+          "LATITUDE": 43.68230153,
+          "STATION": "SUMMERHILL",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/summerhill-station",
+          "x": -8837742.896,
+          "y": 5416408.559,
+          "ObjectId": 55
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 50,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.38874969,
+            43.67694568
+          ]
+        },
+        "properties": {
+          "FID": 56,
+          "ADDRESS_PO": 788874,
+          "ADDRESS_FU": "7 Crescent Rd",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.38874969,
+          "LATITUDE": 43.67694568,
+          "STATION": "ROSEDALE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/rosedale-station",
+          "x": -8837515.354,
+          "y": 5415584.115,
+          "ObjectId": 56
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 51,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.38554351,
+            43.67029182
+          ]
+        },
+        "properties": {
+          "FID": 57,
+          "ADDRESS_PO": 8535683,
+          "ADDRESS_FU": "35 Bloor St E",
+          "POSTAL_COD": "M4W 1A9",
+          "LONGITUDE": -79.38554351,
+          "LATITUDE": 43.67029182,
+          "STATION": "BLOOR-YONGE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/bloor-yonge-station",
+          "x": -8837158.695,
+          "y": 5414559.647,
+          "ObjectId": 57
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 52,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.27947292,
+            43.71160562
+          ]
+        },
+        "properties": {
+          "FID": 58,
+          "ADDRESS_PO": 395735,
+          "ADDRESS_FU": "701 Warden Ave",
+          "POSTAL_COD": "M1L 3Z5",
+          "LONGITUDE": -79.27947292,
+          "LATITUDE": 43.71160562,
+          "STATION": "WARDEN",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/warden-station",
+          "x": -8825350.847,
+          "y": 5420920.243,
+          "ObjectId": 58
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 53,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.39011534,
+            43.67028667
+          ]
+        },
+        "properties": {
+          "FID": 59,
+          "ADDRESS_PO": 8408493,
+          "ADDRESS_FU": "1234 Bay St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.39011534,
+          "LATITUDE": 43.67028667,
+          "STATION": "BAY",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/bay-station",
+          "x": -8837666.696,
+          "y": 5414559.647,
+          "ObjectId": 59
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 54,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.41509726,
+            43.68405433
+          ]
+        },
+        "properties": {
+          "FID": 60,
+          "ADDRESS_PO": 6913359,
+          "ADDRESS_FU": "370 St Clair Ave W",
+          "POSTAL_COD": "M5P 1N4",
+          "LONGITUDE": -79.41509726,
+          "LATITUDE": 43.68405433,
+          "STATION": "ST CLAIR WEST",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/st-clair-west-station",
+          "x": -8840448.002,
+          "y": 5416678.434,
+          "ObjectId": 60
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 55,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.39981373,
+            43.66827803
+          ]
+        },
+        "properties": {
+          "FID": 61,
+          "ADDRESS_PO": 4030665,
+          "ADDRESS_FU": "139 St George St",
+          "POSTAL_COD": "M5R 2L8",
+          "LONGITUDE": -79.39981373,
+          "LATITUDE": 43.66827803,
+          "STATION": "ST GEORGE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/st-george-station",
+          "x": -8838747.257,
+          "y": 5414250.613,
+          "ObjectId": 61
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 56,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.39281286,
+            43.66674903
+          ]
+        },
+        "properties": {
+          "FID": 62,
+          "ADDRESS_PO": 8141047,
+          "ADDRESS_FU": "75 Queen's Park",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.39281286,
+          "LATITUDE": 43.66674903,
+          "STATION": "MUSEUM",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/museum-station",
+          "x": -8837967.264,
+          "y": 5414014.604,
+          "ObjectId": 62
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 57,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.38393902,
+            43.66529384
+          ]
+        },
+        "properties": {
+          "FID": 63,
+          "ADDRESS_PO": 7754566,
+          "ADDRESS_FU": "16 Wellesley St E",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.38393902,
+          "LATITUDE": 43.66529384,
+          "STATION": "WELLESLEY",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/wellesley-station",
+          "x": -8836979.837,
+          "y": 5413791.295,
+          "ObjectId": 63
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 58,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.37652443,
+            43.67226677
+          ]
+        },
+        "properties": {
+          "FID": 64,
+          "ADDRESS_PO": 8540540,
+          "ADDRESS_FU": "633 Sherbourne St",
+          "POSTAL_COD": "M4X 1L7",
+          "LONGITUDE": -79.37652443,
+          "LATITUDE": 43.67226677,
+          "STATION": "SHERBOURNE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/sherbourne-station",
+          "x": -8836154.335,
+          "y": 5414864.447,
+          "ObjectId": 64
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 59,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.36945279,
+            43.67323618
+          ]
+        },
+        "properties": {
+          "FID": 65,
+          "ADDRESS_PO": 8540639,
+          "ADDRESS_FU": "600 Bloor St E",
+          "POSTAL_COD": "M4W 3Z2",
+          "LONGITUDE": -79.36945279,
+          "LATITUDE": 43.67323618,
+          "STATION": "CASTLE FRANK",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/castle-frank-station",
+          "x": -8835366.933,
+          "y": 5415013.673,
+          "ObjectId": 65
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 60,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.35847627,
+            43.67693436
+          ]
+        },
+        "properties": {
+          "FID": 66,
+          "ADDRESS_PO": 10835316,
+          "ADDRESS_FU": "769 Broadview Ave",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.35847627,
+          "LATITUDE": 43.67693436,
+          "STATION": "BROADVIEW",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/broadview-station",
+          "x": -8834145.614,
+          "y": 5415581.999,
+          "ObjectId": 66
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 61,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.35253711,
+            43.67824022
+          ]
+        },
+        "properties": {
+          "FID": 67,
+          "ADDRESS_PO": 10834581,
+          "ADDRESS_FU": "22 Chester Ave",
+          "POSTAL_COD": "M4K 2Z9",
+          "LONGITUDE": -79.35253711,
+          "LATITUDE": 43.67824022,
+          "STATION": "CHESTER",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/chester-station",
+          "x": -8833484.155,
+          "y": 5415783.082,
+          "ObjectId": 67
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 62,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.46690655,
+            43.65392814
+          ]
+        },
+        "properties": {
+          "FID": 68,
+          "ADDRESS_PO": 7994419,
+          "ADDRESS_FU": "35 Quebec Ave",
+          "POSTAL_COD": "M6P 2T3",
+          "LONGITUDE": -79.46690655,
+          "LATITUDE": 43.65392814,
+          "STATION": "HIGH PARK",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/high-park-station",
+          "x": -8846215.93,
+          "y": 5412041.867,
+          "ObjectId": 68
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 63,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.46006348,
+            43.65559371
+          ]
+        },
+        "properties": {
+          "FID": 69,
+          "ADDRESS_PO": 14172695,
+          "ADDRESS_FU": "21 Keele St",
+          "POSTAL_COD": "M6P 2J8",
+          "LONGITUDE": -79.46006348,
+          "LATITUDE": 43.65559371,
+          "STATION": "KEELE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/keele-station",
+          "x": -8845453.929,
+          "y": 5412297.984,
+          "ObjectId": 69
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 64,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.479551,
+            43.753936
+          ]
+        },
+        "properties": {
+          "FID": 70,
+          "ADDRESS_PO": 30018824,
+          "ADDRESS_FU": "25 Vitti St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.479551,
+          "LATITUDE": 43.753936,
+          "STATION": "DOWNSVIEW PARK",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/downsview-park-station",
+          "x": -8847623.516,
+          "y": 5427441.706,
+          "ObjectId": 70
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 65,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.491666,
+            43.763962
+          ]
+        },
+        "properties": {
+          "FID": 71,
+          "ADDRESS_PO": 30017900,
+          "ADDRESS_FU": "3950 Keele St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.491666,
+          "LATITUDE": 43.763962,
+          "STATION": "FINCH WEST",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/finch-west-station",
+          "x": -8848971.836,
+          "y": 5428986.876,
+          "ObjectId": 71
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 66,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.500154,
+            43.77385
+          ]
+        },
+        "properties": {
+          "FID": 72,
+          "ADDRESS_PO": 30095692,
+          "ADDRESS_FU": "120 Ian Macdonald Blvd",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.500154,
+          "LATITUDE": 43.77385,
+          "STATION": "YORK UNIVERSITY",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/york-university-station",
+          "x": -8849916.929,
+          "y": 5430511.937,
+          "ObjectId": 72
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 67,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.510323,
+            43.777178
+          ]
+        },
+        "properties": {
+          "FID": 73,
+          "ADDRESS_PO": 30017995,
+          "ADDRESS_FU": "2800 Steeles Ave West",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.510323,
+          "LATITUDE": 43.777178,
+          "STATION": "PIONEER VILLAGE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/pioneer-village-station",
+          "x": -8851048.29,
+          "y": 5431024.171,
+          "ObjectId": 73
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 68,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.5236539,
+            43.7831841
+          ]
+        },
+        "properties": {
+          "FID": 74,
+          "ADDRESS_PO": 0,
+          "ADDRESS_FU": "7332 Jane St",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.5236539,
+          "LATITUDE": 43.7831841,
+          "STATION": "HIGHWAY 407",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/highway-407-station",
+          "x": -8852533.134,
+          "y": 5431950.215,
+          "ObjectId": 74
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 69,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.5273373,
+            43.7941359
+          ]
+        },
+        "properties": {
+          "FID": 75,
+          "ADDRESS_PO": 0,
+          "ADDRESS_FU": "3150 Highway 7",
+          "POSTAL_COD": " ",
+          "LONGITUDE": -79.5273373,
+          "LATITUDE": 43.7941359,
+          "STATION": "VAUGHAN METROPOLITAN CENTRE",
+          "WEBSITE": "http://www.ttc.ca/subway-stations/vaughan-metropolitan-centre-station",
+          "x": -8852942.71,
+          "y": 5433639.318,
+          "ObjectId": 75
+        }
+      }
+    ]
+  }
